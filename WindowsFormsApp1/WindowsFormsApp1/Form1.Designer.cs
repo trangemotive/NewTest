@@ -30,6 +30,7 @@
         {
             this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.listView1 = new System.Windows.Forms.ListView();
+            this.folderBrowserDialog1 = new System.Windows.Forms.FolderBrowserDialog();
             this.SuspendLayout();
             // 
             // comboBox1
@@ -65,6 +66,7 @@
 
         private System.Windows.Forms.ComboBox comboBox1;
         private System.Windows.Forms.ListView listView1;
+        private System.Windows.Forms.FolderBrowserDialog folderBrowserDialog1;
     }
 }
 
