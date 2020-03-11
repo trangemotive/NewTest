@@ -17,5 +17,10 @@ namespace WindowsFormsApp1
         {
             return a + b;
         }
+
+        public int Add2(int a, int b)
+        {
+            return a + b;
+        }
     }
 }
