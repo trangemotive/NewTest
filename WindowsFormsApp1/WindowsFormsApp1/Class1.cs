@@ -8,5 +8,14 @@ namespace WindowsFormsApp1
 {
     class Class1
     {
+        public Class1()
+        {
+
+        }
+
+        public int Add(int a, int b)
+        {
+            return a + b;
+        }
     }
 }
