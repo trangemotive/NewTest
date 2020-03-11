@@ -22,5 +22,10 @@ namespace WindowsFormsApp1
         {
             return a + b;
         }
+
+        public int Devide(int a, int b)
+        {
+            return a / b;
+        }
     }
 }
